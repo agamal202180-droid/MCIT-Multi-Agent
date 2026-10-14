@@ -2,6 +2,7 @@
 ### مصة الوكلاء الأكياء المتعددين لوزارة الاتصالات وتنولوجيا المعلومات (سيدية ومحلية 100%)
 
 ---
+# MCIT Sovereign 100% Local Multi-Agent AI & RAG Platform
 
 ## Overview | نظرة عامة
 
